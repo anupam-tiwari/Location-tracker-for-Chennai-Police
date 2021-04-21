@@ -1,0 +1,392 @@
+[
+  {
+    "Id": 1,
+    "NAME": "PUPS, Mannivakkam East Facing, West Side Building South Part",
+    "Latitude": 12.8871882,
+    "Longitude": 80.0428582
+  },
+  {
+    "Id": 2,
+    "NAME": "Willy's Intergrated Primary School South Facing, North Side Building East Part",
+    "Latitude": 12.9415813,
+    "Longitude": 80.0859186
+  },
+  {
+    "Id": 3,
+    "NAME": "Govt High School,Kolapakkam West Facing, North Part",
+    "Latitude": 12.8725047,
+    "Longitude": 80.1027115
+  },
+  {
+    "Id": 4,
+    "NAME": "PUMS,Unaimancheri North Facing, South Side Building ,West Part",
+    "Latitude": 12.8232212,
+    "Longitude": 80.0782698
+  },
+  {
+    "Id": 5,
+    "NAME": "PUPS Karanaiputhuchery, South Facing",
+    "Latitude": 12.683995,
+    "Longitude": 79.983345
+  },
+  {
+    "Id": 6,
+    "NAME": "Govt.High School Karanaiputhuchery,",
+    "Latitude": 12.683995,
+    "Longitude": 79.983345
+  },
+  {
+    "Id": 7,
+    "NAME": "Immanuvel Matric School, Urappakkam",
+    "Latitude": 12.861162,
+    "Longitude": 80.0674856
+  },
+  {
+    "Id": 8,
+    "NAME": "Deva annai Matric Hr,Sec School",
+    "Latitude": 12.785885,
+    "Longitude": 80.172245
+  },
+  {
+    "Id": 9,
+    "NAME": "Govt. Adidravidar Primary School, Kilambakkam South Wing West Facing 3rd Room",
+    "Latitude": 12.78627,
+    "Longitude": 80.22042
+  },
+  {
+    "Id": 10,
+    "NAME": "Sankara Vidayalaya Hr.sec. School Kilambakkam West Face East side",
+    "Latitude": 12.78627,
+    "Longitude": 80.22042
+  },
+  {
+    "Id": 11,
+    "NAME": "Panchayat Union Middle School Guduvanchery West Facing North Part",
+    "Latitude": 12.8419672,
+    "Longitude": 80.0677012
+  },
+  {
+    "Id": 12,
+    "NAME": "Bharathiyar Matriculation Higher Secondary School Guduvanchery North Facing",
+    "Latitude": 12.8398215,
+    "Longitude": 80.0550556
+  },
+  {
+    "Id": 13,
+    "NAME": "Panchayat Union Primary School Guduvanchery West Facing North Part (New Building)",
+    "Latitude": 12.8419672,
+    "Longitude": 80.0677012
+  },
+  {
+    "Id": 14,
+    "NAME": "Government Mens Higher Secondary School West Part North Facing Nandhivarm -Guduvanchery",
+    "Latitude": 12.8412964,
+    "Longitude": 80.0606855
+  },
+  {
+    "Id": 15,
+    "NAME": "Panchayat Union Model Primary School South Facing New Building (Kamaraja puram)Nandhivarm -Guduvanchery",
+    "Latitude": 12.8419672,
+    "Longitude": ",80.0677012"
+  },
+  {
+    "Id": 16,
+    "NAME": "Panchayath Union Prrimary School, Thailavaram",
+    "Latitude": 12.803321,
+    "Longitude": 80.0506202
+  },
+  {
+    "Id": 17,
+    "NAME": "Noon meal centre East face Thailavaram",
+    "Latitude": 12.803321,
+    "Longitude": 80.0506202
+  },
+  {
+    "Id": 18,
+    "NAME": "Panchayath Union Primary School, Perumattunallur",
+    "Latitude": 12.69056,
+    "Longitude": 79.97778
+  },
+  {
+    "Id": 19,
+    "NAME": "P.U.P.School West Potheri",
+    "Latitude": 12.8395027,
+    "Longitude": 79.277048
+  },
+  {
+    "Id": 20,
+    "NAME": "St.Joseph Matr.Hr.School NH1,Thiruvalluver Street Maraimalai Nagar West Facing",
+    "Latitude": 13.01123,
+    "Longitude": 80.1939
+  },
+  {
+    "Id": 21,
+    "NAME": "Govt.Hr.School New Campus Maraimalai Nagar North Facing",
+    "Latitude": 13.03435,
+    "Longitude": 80.20262
+  },
+  {
+    "Id": 22,
+    "NAME": "TMS Matericulation School West facing East side",
+    "Latitude": 13.03435,
+    "Longitude": 80.20262
+  },
+  {
+    "Id": 23,
+    "NAME": "P.U.M.School Ninnakarai South Facing",
+    "Latitude": 12.69056,
+    "Longitude": 79.97778
+  },
+  {
+    "Id": 24,
+    "NAME": "P.U.P.School Peramanur East Facing",
+    "Latitude": 12.69056,
+    "Longitude": 79.97778
+  },
+  {
+    "Id": 25,
+    "NAME": "Gov.High.School Peramanur North Face",
+    "Latitude": 12.69056,
+    "Longitude": 79.97778
+  },
+  {
+    "Id": 26,
+    "NAME": "Panchayath Union Middle School, Thirukachoor.",
+    "Latitude": 12.69056,
+    "Longitude": 79.97778
+  },
+  {
+    "Id": 27,
+    "NAME": "C.S.I.High School (West Facing Building)Melrosapuram /Senkundram",
+    "Latitude": 12.69056,
+    "Longitude": 79.97778
+  },
+  {
+    "Id": 28,
+    "NAME": "PLF Pareri North Face",
+    "Latitude": 12.7641,
+    "Longitude": 79.90908
+  },
+  {
+    "Id": 29,
+    "NAME": "Panchayat Union Primary School   , Nemmeli",
+    "Latitude": 12.66362,
+    "Longitude": 80.02282
+  },
+  {
+    "Id": 30,
+    "NAME": "Government Adi Dravidar Primary School     Mamallapuram,",
+    "Latitude": 12.61796,
+    "Longitude": 80.19336
+  },
+  {
+    "Id": 31,
+    "NAME": "Government Girls Higher Secondary School Thirukkazhukundram,",
+    "Latitude": 12.62059,
+    "Longitude": 79.95262
+  },
+  {
+    "Id": 32,
+    "NAME": "Government Boys Higher Secondory School Thirukkazhukundram",
+    "Latitude": 34.08,
+    "Longitude": 80.05863
+  },
+  {
+    "Id": 33,
+    "NAME": "A E C S    SCHOOL, Anupuram",
+    "Latitude": 12.55302,
+    "Longitude": 80.12598
+  },
+  {
+    "Id": 34,
+    "NAME": "Panchayat Union Middle School south facing ,Uyallikuppam",
+    "Latitude": 12.498145,
+    "Longitude": 80.147568
+  },
+  {
+    "Id": 35,
+    "NAME": "Panchayat Union Primary School   ,Sembakkam",
+    "Latitude": 12.70974,
+    "Longitude": 80.1292
+  },
+  {
+    "Id": 36,
+    "NAME": "Panchayat Union Primary school, Thiruporur",
+    "Latitude": 12.7262,
+    "Longitude": 80.18753
+  },
+  {
+    "Id": 37,
+    "NAME": "Panchayat Union Middle School, manamathi",
+    "Latitude": 12.64552,
+    "Longitude": 80.14041
+  },
+  {
+    "Id": 38,
+    "NAME": "Panchayat Union Middle school, Kazhipattur",
+    "Latitude": 12.83465,
+    "Longitude": 80.22832
+  },
+  {
+    "Id": 39,
+    "NAME": "Saint John demondi R.C. Primary school   ,Kovalam",
+    "Latitude": 12.79234,
+    "Longitude": 80.24809
+  },
+  {
+    "Id": 40,
+    "NAME": "Adthithiravedal welfare and Schedule Trabe middle school ,    Pudupakkam",
+    "Latitude": 12.80956,
+    "Longitude": 80.20199
+  },
+  {
+    "Id": 41,
+    "NAME": "Government Boys High school , Kelampakkam",
+    "Latitude": 12.78536,
+    "Longitude": 80.22057
+  },
+  {
+    "Id": 42,
+    "NAME": "Panchayat Union Primary School   ,Padur",
+    "Latitude": 12.80445,
+    "Longitude": 80.22249
+  },
+  {
+    "Id": 43,
+    "NAME": "Panchayat Union Primary school   Kelampakkam",
+    "Latitude": 12.79081,
+    "Longitude": 80.21944
+  },
+  {
+    "Id": 44,
+    "NAME": "Govenment Adithithiravidar High School   ,Thaiyur",
+    "Latitude": 12.77798,
+    "Longitude": 80.20297
+  },
+  {
+    "Id": 45,
+    "NAME": "Panchayat Union Middle School Nallambakkam West Face, East Side Building North Part",
+    "Latitude": 12.8551379,
+    "Longitude": 80.1359205
+  },
+  {
+    "Id": 46,
+    "NAME": "St. Joseph Matriculation Hr. Sec School Melakottaiyur, North Facing",
+    "Latitude": 12847013,
+    "Longitude": 80.145828
+  },
+  {
+    "Id": 47,
+    "NAME": "Panchayat Union Primary school   Mambakkam",
+    "Latitude": 12.825326,
+    "Longitude": 80.167451
+  },
+  {
+    "Id": 48,
+    "NAME": "American Advant Mission Middle school   ,Ponmar",
+    "Latitude": 12.85725,
+    "Longitude": 80.17209
+  },
+  {
+    "Id": 49,
+    "NAME": "Advent Christain Primary School   ,Thazhambur",
+    "Latitude": 12.86035,
+    "Longitude": 80.20019
+  },
+  {
+    "Id": 50,
+    "NAME": "Panchayat Union Middle School   ,Navalur",
+    "Latitude": 12.84612,
+    "Longitude": 80.22699
+  },
+  {
+    "Id": 51,
+    "NAME": "PUMS,Keerapakkam South Facing, South Side Building East Part",
+    "Latitude": 12.8300951,
+    "Longitude": 80.1115792
+  },
+  {
+    "Id": 52,
+    "NAME": "Govt. High. Sec. School, Cheyyur",
+    "Latitude": 12.35251,
+    "Longitude": 79.99833
+  },
+  {
+    "Id": 53,
+    "NAME": "Panchayat Union Primar School, Thimmavaram North Side, West Facing",
+    "Latitude": 12.712726,
+    "Longitude": 79.959389
+  },
+  {
+    "Id": 54,
+    "NAME": "Panchayat Union Primary School, Pulipakkam North Facing, South Side Building",
+    "Latitude": 12.712726,
+    "Longitude": 79.959389
+  },
+  {
+    "Id": 55,
+    "NAME": "St. Anns High School, Melamaiyur",
+    "Latitude": 12.686912,
+    "Longitude": 79.97541
+  },
+  {
+    "Id": 56,
+    "NAME": "Panchayat Union Primary School, Alapakkam",
+    "Latitude": 12.683075,
+    "Longitude": 79.982722
+  },
+  {
+    "Id": 57,
+    "NAME": "St.Joseph Higher Secondary School, Chengalpattu",
+    "Latitude": 12.69459,
+    "Longitude": 79.978355
+  },
+  {
+    "Id": 58,
+    "NAME": "St.Columbas Hr.Sec School, Chengalpattu",
+    "Latitude": 12.687636,
+    "Longitude": 79.978079
+  },
+  {
+    "Id": 59,
+    "NAME": "Little Jacky Mat,Hr.School, Natham Chengalpattu calss Room XII-F North Face",
+    "Latitude": 12.690038,
+    "Longitude": 79.976147
+  },
+  {
+    "Id": 60,
+    "NAME": "St.Joseph Primary School, Tamil Medium, Vedachala Nagar, Chengalpattu",
+    "Latitude": 12.686912,
+    "Longitude": 79.97541
+  },
+  {
+    "Id": 61,
+    "NAME": "Arignar Anna Municipal Boys High School",
+    "Latitude": 12.68835,
+    "Longitude": 79.97774
+  },
+  {
+    "Id": 62,
+    "NAME": "Municipal Primary School, Anumanthaputheri, Chengalpattu",
+    "Latitude": 12.68646,
+    "Longitude": 79.975233
+  },
+  {
+    "Id": 63,
+    "NAME": "Government Girls Higher Sec. School, Alegasan Nagar, Chengalpattu North Face",
+    "Latitude": 12.694685,
+    "Longitude": 79.978352
+  },
+  {
+    "Id": 64,
+    "NAME": "Guntur Municipal Primary School, Chengalpattu",
+    "Latitude": 12.696229,
+    "Longitude": 79.976052
+  },
+  {
+    "Id": 65,
+    "NAME": "Rajeswari Vedachalam Government Arts College, Chengalpattu",
+    "Latitude": 12.687325,
+    "Longitude": 79.982317
+  }
+]

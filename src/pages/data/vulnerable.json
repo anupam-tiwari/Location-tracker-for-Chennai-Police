@@ -1,0 +1,338 @@
+[
+  {
+    "Id": 1,
+    "NAME": "Vadamalai Municipal Middle School, Chengalpattu",
+    "Latitude": 12.697423,
+    "Longitude": 79.974407
+  },
+  {
+    "Id": 2,
+    "NAME": "Badthavachalam Sastiyapthapurthi High School, Athur, South Facing North Wing Building",
+    "Latitude": 12.712726,
+    "Longitude": 79.959389
+  },
+  {
+    "Id": 3,
+    "NAME": "P.U.M.School, Thenmelpakkam(North Side)",
+    "Latitude": 12.73776,
+    "Longitude": 80.017745
+  },
+  {
+    "Id": 4,
+    "NAME": "Panchayat Union Primary School, Anumanthai, ICDS Panchayat Union Primary School",
+    "Latitude": 12.734122,
+    "Longitude": 80.023753
+  },
+  {
+    "Id": 5,
+    "NAME": "Panchayat Union Middle Primary School, Vallam",
+    "Latitude": 12.67946,
+    "Longitude": 79.979123
+  },
+  {
+    "Id": 6,
+    "NAME": "Panchayat Union Primary School, Patravakkam",
+    "Latitude": 12.683075,
+    "Longitude": 79.982722
+  },
+  {
+    "Id": 7,
+    "NAME": "Panchayat Union Middle School, Appur North Part Building, North Facing",
+    "Latitude": 12.764883,
+    "Longitude": 79.936445
+  },
+  {
+    "Id": 8,
+    "NAME": "PUP School,  Budhur",
+    "Latitude": 12.54469,
+    "Longitude": 79.97398
+  },
+  {
+    "Id": 9,
+    "NAME": "Govt High School,Mannivakkam East Facing, West Side Building South Part",
+    "Latitude": 12.8927401,
+    "Longitude": 80.0670192
+  },
+  {
+    "Id": 10,
+    "NAME": "CSI Primary School,Vandalur South Facing, East Part Building",
+    "Latitude": 12.8871882,
+    "Longitude": 80.0428582
+  },
+  {
+    "Id": 11,
+    "NAME": "Shalom School, Vandalur East Face",
+    "Latitude": 12.888286,
+    "Longitude": 80.0812391
+  },
+  {
+    "Id": 12,
+    "NAME": "St john's Nursery & Primary School, West Facing North part",
+    "Latitude": 12.9893416,
+    "Longitude": 80.0228612
+  },
+  {
+    "Id": 13,
+    "NAME": "Cresent Matriculation school vandalur",
+    "Latitude": 12.878066,
+    "Longitude": 80.0796065
+  },
+  {
+    "Id": 14,
+    "NAME": "PUPS,Otteri South Facing, North Side Building West Part",
+    "Latitude": 13.0915175,
+    "Longitude": 79.97091
+  },
+  {
+    "Id": 15,
+    "NAME": "Govt. Adidravidar Higher Sec. School, Kilambakkam South Wing West Facing 3rd Room",
+    "Latitude": 12.8652663,
+    "Longitude": 80.0744617
+  },
+  {
+    "Id": 16,
+    "NAME": "Government Girls Higher Secondary School North Facing Nandhivaram-Guduvanchery",
+    "Latitude": 12.8412964,
+    "Longitude": 80.0606855
+  },
+  {
+    "Id": 17,
+    "NAME": "P.U.P.School\nKayarambedu South Facing",
+    "Latitude": 12.8037788,
+    "Longitude": 80.0702806
+  },
+  {
+    "Id": 18,
+    "NAME": "P.U.M.School East Potheri",
+    "Latitude": 12.8395027,
+    "Longitude": 79.277048
+  },
+  {
+    "Id": 19,
+    "NAME": "Panchayat Union Primary School Kattankolathur North Face",
+    "Latitude": 12.8418783,
+    "Longitude": 80.0654512
+  },
+  {
+    "Id": 20,
+    "NAME": "Govt.High School Kattankolathur",
+    "Latitude": 12.782515,
+    "Longitude": 80.048176
+  },
+  {
+    "Id": 21,
+    "NAME": "P.U.M. School( North Side West Facing Building), Singaperumalkoil(New Booth)",
+    "Latitude": 12.7605606,
+    "Longitude": 79.9998743
+  },
+  {
+    "Id": 22,
+    "NAME": "Panchayat Union Primary School Etchur,",
+    "Latitude": 12.61001,
+    "Longitude": 80.07298
+  },
+  {
+    "Id": 23,
+    "NAME": "Panchayat Union Primary School   Thazhampedu,",
+    "Latitude": 12.62078,
+    "Longitude": 79.95241
+  },
+  {
+    "Id": 24,
+    "NAME": "Panchayat Union Middle School Saloor,",
+    "Latitude": 12.59084,
+    "Longitude": 80.00084
+  },
+  {
+    "Id": 25,
+    "NAME": "Panchayat Union Primary School  M.N. Kuppam Thirukkazhukumdram,",
+    "Latitude": 12.61592,
+    "Longitude": 80.05774
+  },
+  {
+    "Id": 26,
+    "NAME": "Panchayat Union Primary School Ruthirankoil Thirukkazhukundram",
+    "Latitude": 12.60871,
+    "Longitude": 80.06631
+  },
+  {
+    "Id": 27,
+    "NAME": "Govt Adi Dravidar Middle school, Paramasivam Nagar, Thirukkazhukundram",
+    "Latitude": 12.61866,
+    "Longitude": 80.05594
+  },
+  {
+    "Id": 28,
+    "NAME": "Panchayat Union Middle School Nalvarkoilpet Thirukkazhukundram,",
+    "Latitude": 12.61592,
+    "Longitude": 80.05774
+  },
+  {
+    "Id": 29,
+    "NAME": "Panchayat Union Middle School ,Sathurangapattinam",
+    "Latitude": 12.5248,
+    "Longitude": 80.1628
+  },
+  {
+    "Id": 30,
+    "NAME": "Kendira Vidyalaya Central School, Pudupattinam",
+    "Latitude": 12.498077,
+    "Longitude": 80.158949
+  },
+  {
+    "Id": 31,
+    "NAME": "Govt. Higher secondary school Pudupattinam",
+    "Latitude": 12.503664,
+    "Longitude": 80.154897
+  },
+  {
+    "Id": 32,
+    "NAME": "Panchayath Union Primary school Pudupattinam",
+    "Latitude": 12.503842,
+    "Longitude": 80.158034
+  },
+  {
+    "Id": 33,
+    "NAME": "Panchayath Union Primary school, Kadalur periyakuppam",
+    "Latitude": 12.447369,
+    "Longitude": 80.139693
+  },
+  {
+    "Id": 34,
+    "NAME": "Panchayat Union Middle School, Kadalur",
+    "Latitude": 12.460116,
+    "Longitude": 80.128398
+  },
+  {
+    "Id": 35,
+    "NAME": "Panchat Union Primary School, Koovathur",
+    "Latitude": 12.443053,
+    "Longitude": 80.106717
+  },
+  {
+    "Id": 36,
+    "NAME": "Govt. High School, Kodur",
+    "Latitude": 12.413319,
+    "Longitude": 80.076818
+  },
+  {
+    "Id": 37,
+    "NAME": "Panchayat Union Primary school, Illalur",
+    "Latitude": 12.70226,
+    "Longitude": 80.13031
+  },
+  {
+    "Id": 38,
+    "NAME": "Panchayat Union Primary School   ,Kalavakkam",
+    "Latitude": 12.74452,
+    "Longitude": 80.20019
+  },
+  {
+    "Id": 39,
+    "NAME": "Panchayat Union Middle School   ,Kottamedu",
+    "Latitude": 12.73214,
+    "Longitude": 80.15586
+  },
+  {
+    "Id": 40,
+    "NAME": "Panchayat Union Middle School   ,Siruthavur",
+    "Latitude": 12.68085,
+    "Longitude": 80.16011
+  },
+  {
+    "Id": 41,
+    "NAME": "R.C. High School,  Gandhi Nagar.",
+    "Latitude": 12.49578,
+    "Longitude": 79.85403
+  },
+  {
+    "Id": 42,
+    "NAME": "Govt.Higher.Sec.School, Morapakkam",
+    "Latitude": 12.49578,
+    "Longitude": 79.85403
+  },
+  {
+    "Id": 43,
+    "NAME": "Govt High School, \n Kallapiranpuram",
+    "Latitude": 12.5770303,
+    "Longitude": 79.91172861
+  },
+  {
+    "Id": 44,
+    "NAME": "Panchayat Union Primary School, Palaiyur",
+    "Latitude": 12.32531,
+    "Longitude": 79.97311
+  },
+  {
+    "Id": 45,
+    "NAME": "Panchayat union middle school, Alambaraikuppam",
+    "Latitude": 12.27414,
+    "Longitude": 80.00447
+  },
+  {
+    "Id": 46,
+    "NAME": "Panchayat union middle school, kadapakkam",
+    "Latitude": 12.27983,
+    "Longitude": 79.99402
+  },
+  {
+    "Id": 47,
+    "NAME": "Govt. High sec School, Kadapakkam",
+    "Latitude": 12.28109,
+    "Longitude": 79.98938
+  },
+  {
+    "Id": 48,
+    "NAME": "Panchayat Union Middle School, Chunambedu",
+    "Latitude": 12.2564002,
+    "Longitude": 79.9049661
+  },
+  {
+    "Id": 49,
+    "NAME": "Panchayat Union Primary School, Amanthakaranai",
+    "Latitude": 12.322281,
+    "Longitude": 79.926397
+  },
+  {
+    "Id": 50,
+    "NAME": "Panchayat Union Middle School, Parukkal",
+    "Latitude": 12.383994,
+    "Longitude": 79.853946
+  },
+  {
+    "Id": 51,
+    "NAME": "Panchayat Union Primary School, Thenpakkam",
+    "Latitude": 12.384618,
+    "Longitude": 79.811719
+  },
+  {
+    "Id": 52,
+    "NAME": "Marvar Govt.Higher.Sec.School, Achrapakkam",
+    "Latitude": 12.4045117,
+    "Longitude": 79.81271333
+  },
+  {
+    "Id": 53,
+    "NAME": "PUM School, \n Kadamalaiputhur",
+    "Latitude": 12.36777,
+    "Longitude": 79.78002
+  },
+  {
+    "Id": 54,
+    "NAME": "PUM School, Perumperkandigai",
+    "Latitude": 12.37589,
+    "Longitude": 79.78154
+  },
+  {
+    "Id": 55,
+    "NAME": "PUP School, Anandhamangalam",
+    "Latitude": 12.32386,
+    "Longitude": 79.66908
+  },
+  {
+    "Id": 56,
+    "NAME": "Panchayat Union Primary School, Anaicut",
+    "Latitude": 12.46639,
+    "Longitude": 80.09911
+  }
+]
